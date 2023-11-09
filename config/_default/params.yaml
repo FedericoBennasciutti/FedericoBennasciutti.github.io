@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Robotics Engineer, passionate about deep learning, AI and computer vision'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -56,7 +56,7 @@ footer:
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04 PM'
   address_format: en-us
 
 # Site features
@@ -96,7 +96,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: 'mapbox'
     api_key: ''
     zoom: 15
 

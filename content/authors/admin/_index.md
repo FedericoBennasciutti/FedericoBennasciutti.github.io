@@ -59,17 +59,17 @@ skills:
       - name: C++
         description: ''
         percent: 75
-        icon: chart-line
-        icon_pack: fas
+        icon: c++
+        icon_pack: fab
       - name: Deep Learning
         description: ''
         percent: 80
-        icon: database
+        icon: network
         icon_pack: fas
       - name: ROS
         description: ''
         percent: 95
-        icon: database
+        icon: robot
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -82,8 +82,8 @@ skills:
         icon_pack: fas
       - name: Cooking
         description: ''
-        percent: 100
-        icon: cat
+        percent: 95
+        icon: hat-chef
         icon_pack: fas
       - name: Photography
         description: ''
