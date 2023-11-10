@@ -65,7 +65,7 @@ sections:
         - title: Robotics Engineer
           company: Intermodalics
           company_url: 'www.intermodalics.eu'
-          company_logo: org-im.png
+          company_logo: org-im
           location: Leuven, Belgium
           date_start: '2022-08-01'
           date_end: ''
