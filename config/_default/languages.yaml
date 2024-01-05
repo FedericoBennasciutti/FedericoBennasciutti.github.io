@@ -4,9 +4,10 @@
 
 # Default language
 en:
-  languageCode: en-us
+  languageCode: en-US
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  # contentDir: content
+  weight: 1
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
@@ -20,3 +21,30 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
+
+# it:
+#  languageCode: it-IT
+#  title: Federico Bennasciutti
+#  weight: 2
+#  params:
+#   description: 'Ingegnere robotico, appassionato di deep learning, intelligenza artificiale (AI) e visione artificiale'
+#  menu:
+#    main:
+#     - name: Home
+#       url: '#about'
+#       weight: 10
+#     # - name: Posts
+#     #   url: '#posts'
+#     #   weight: 20
+#     # - name: Projects
+#     #   url: '#projects'
+#     #   weight: 30
+#     # - name: Talks
+#     #   url: '#talks'
+#     #   weight: 40
+#     # - name: Publications
+#     #   url: '#featured'
+#     #   weight: 50
+#     - name: Contatti
+#       url: '#contatti'
+#       weight: 60

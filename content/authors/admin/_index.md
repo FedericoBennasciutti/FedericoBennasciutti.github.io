@@ -3,7 +3,7 @@
 title: Federico Bennasciutti
 
 # Name pronunciation (optional)
-name_pronunciation: Federico Bennasciutti
+# name_pronunciation: Federico Bennasciutti
 
 # Full name (for SEO)
 first_name: Federico
@@ -31,6 +31,7 @@ bio: Forward-thinking Robotics Engineer, proficient in Deep Learning and Compute
 interests:
   - Artificial Intelligence
   - Computer Vision
+  - Autonomous Driving
   - Space Exploration
 
 # Education to show in About widget
@@ -59,12 +60,12 @@ skills:
       - name: C++
         description: ''
         percent: 75
-        icon: c++
+        icon: c
         icon_pack: fab
       - name: Deep Learning
         description: ''
         percent: 80
-        icon: network
+        icon: circle-nodes
         icon_pack: fas
       - name: ROS
         description: ''
@@ -83,7 +84,7 @@ skills:
       - name: Cooking
         description: ''
         percent: 95
-        icon: hat-chef
+        icon: kitchen-set
         icon_pack: fas
       - name: Photography
         description: ''
